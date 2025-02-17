@@ -14,6 +14,8 @@
 下記について募集中です。
 
 * [おすすめの本募集フォーム](https://forms.gle/zoywpf8nT3aFZg6h7)
+  * 自薦他薦お待ちしております。
+  * 自分で売るから取り扱いをやめてほしい、などもこちらでご連絡をお願いします。
 * [スタッフ募集フォーム](https://forms.gle/NUXR64owierd3jrg8)
 * [同人誌委託フォーム](https://forms.gle/f6BUWKFCvoqQnLvX9)
 * サイン会などの企画（下記お問い合わせ先までメールください）
