@@ -16,7 +16,7 @@ I am pleased to announce that we will have a booth at [RubyKaigi 2025](https://r
 
 We are currently accepting applications for the following:
 
-* [Recommended Book Submission Form](https://forms.gle/NUXR64owierd3jrg8)
+* [Recommended Book Submission Form](https://forms.gle/zoywpf8nT3aFZg6h7)
   * Both self-nominations and recommendations are welcome.
   * If you would like us to stop handling a book because you are selling it yourself, please contact us here.
 * [Staff Recruitment Form](https://forms.gle/NUXR64owierd3jrg8)
