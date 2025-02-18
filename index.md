@@ -2,7 +2,9 @@
 
 ## About
 
-This is a page of real bookstore at tech-related events. I hope there will be a sale of technical books at tech-related events, so I (Koichi) runs bookstore as self-employed person As part of enhancing the event, we offer a relaxed service. Since managing cash is troublesome, only cashless payment will be accepted.
+This is a page of a real bookstore at tech-related events. I hope there will be a sale of technical books at tech-related events, so I (Koichi) runs bookstore as self-employed person.
+As part of enhancing the event, we offer a relaxed service.
+Since managing cash is troublesome, only cashless payment will be accepted.
 
 技術関連イベントで技術書の販売があるといいなぁ、と思って笹田が個人事業で行っている本屋さんのページです。
 イベントを盛り上げる一つのコンテンツとして、力を抜いたサービスをご提供します。
