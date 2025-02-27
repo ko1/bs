@@ -21,6 +21,8 @@ We are currently accepting applications for the following:
   * If you would like us to stop handling a book because you are selling it yourself, please contact us here.
 * [Staff Recruitment Form](https://forms.gle/NUXR64owierd3jrg8)
 * [Doujinshi Consignment Form](https://forms.gle/f6BUWKFCvoqQnLvX9)
+* [English books sponsor](https://docs.google.com/spreadsheets/d/1Ya9AvQoWCh_u64AQ_bFz_PjUK96xgljJAFhBXuIDgWQ/edit?usp=sharing)
+  * We wanted to sell English books at the bookstore at RubyKaigi 2025, but it is difficult to purchace them for sale in Japan, so we are looking for English book sponsors.
 * Planning for events like signings (please email us at the contact address below)
 
 [RubyKaigi 2025](https://rubykaigi.org/2025/) （愛媛県県民文化会館）で出店させていただけることになりました。
@@ -33,6 +35,8 @@ We are currently accepting applications for the following:
   * 自分で売るから取り扱いをやめてほしい、などもこちらでご連絡をお願いします。
 * [スタッフ募集フォーム](https://forms.gle/NUXR64owierd3jrg8)
 * [同人誌委託フォーム](https://forms.gle/f6BUWKFCvoqQnLvX9)
+* [English books sponsor](https://docs.google.com/spreadsheets/d/1Ya9AvQoWCh_u64AQ_bFz_PjUK96xgljJAFhBXuIDgWQ/edit?usp=sharing)
+  * 英語の本を仕入れたかったのですが、日本では売るために本を仕入れるのは難しいため、英語の本スポンサーを募集します。
 * サイン会などの企画（下記お問い合わせ先までメールください）
 
 ## Advertisement
