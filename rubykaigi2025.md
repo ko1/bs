@@ -34,11 +34,12 @@ We wanted to sell English books at the bookstore at RubyKaigi 2025, but it is di
 ### (Dear authors and translators) Call for announcement flyers 
 
 We will have panels behind the bookstore at RubyKaigi 2025 for authors and translators to promote their books, if you would like to use it.
-Authors and translators are invited to.
-A paper of no larger than A4 will be displayed. Please bring them to the bookshop during the exhibition.
-We will decide where and in what order to post them.
-The posted items will basically be disposed of at the end of RubyKaigi 2025. If not, please collect them before the end of the event.
-We hope that the content will be helpful to RubyKaigi 2025 participants.
+
+* We will only accept flyers from authors and translators.
+* A paper of no larger than A4 will be displayed. Please bring them to the bookshop during the exhibition.
+* We will decide where and in what order to post them.
+* The posted items will basically be disposed of at the end of RubyKaigi 2025. If not, please collect them before the end of the event.
+* We hope that the content will be helpful to RubyKaigi 2025 participants.
 
 ## in Japanese
 
@@ -64,11 +65,11 @@ We hope that the content will be helpful to RubyKaigi 2025 participants.
 
 英語の本を仕入れたかったのですが、日本では売るために本を仕入れるのは難しいため、英語の本スポンサーを募集します。
 
-###　サイン会などの企画
+### サイン会などの企画
 
 サイン会などを希望される方は下記お問い合わせ先までメールください。
 
-###【著者・翻訳者の皆様へ】告知チラシの募集
+### 【著者・翻訳者の皆様へ】告知チラシの募集
 
 RubyKaigi 2025 の本屋の後ろに、著者・翻訳者の方が本を宣伝するパネルを設置することになりましたので、よかったらご活用ください。
 
