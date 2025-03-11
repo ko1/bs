@@ -24,7 +24,7 @@ We are currently accepting applications for the following:
 * [English books sponsor](https://docs.google.com/spreadsheets/d/1Ya9AvQoWCh_u64AQ_bFz_PjUK96xgljJAFhBXuIDgWQ/edit?usp=sharing)
   * We wanted to sell English books at the bookstore at RubyKaigi 2025, but it is difficult to purchace them for sale in Japan, so we are looking for English book sponsors.
 * Planning for events like signings (please email us at the contact address below)
-  * (Dear authors and translators) Call for announcement flyers 
+* (Dear authors and translators) Call for announcement flyers 
   * We will have panels behind the bookstore at RubyKaigi 2025 for authors and translators to promote their books, if you would like to use it.
   * Authors and translators are invited to.
   * A paper of no larger than A4 will be displayed. Please bring them to the bookshop during the exhibition.
