@@ -32,11 +32,11 @@ We wanted to sell English books at the bookstore at RubyKaigi 2025, but it is di
 
 ### Planning for events like signings (please email us at the contact address below)
 
-### (Dear authors and translators) Call for announcement flyers 
+### (Dear authors, translators and relatives) Call for announcement flyers 
 
-We will have panels behind the bookstore at RubyKaigi 2025 for authors and translators to promote their books, if you would like to use it.
+We will have panels behind the bookstore at RubyKaigi 2025 for authors and translators to promote their books and your activities, if you would like to use it.
 
-* We will only accept flyers from authors and translators.
+* We will only accept flyers from authors, translators and relatives.
 * A paper of no larger than A4 will be displayed. Please bring them to the bookshop during the exhibition.
 * We will decide where and in what order to post them.
 * The posted items will basically be disposed of at the end of RubyKaigi 2025. If not, please collect them before the end of the event.
@@ -70,11 +70,11 @@ We will have panels behind the bookstore at RubyKaigi 2025 for authors and trans
 
 サイン会などを希望される方は下記お問い合わせ先までメールください。
 
-### 【著者・翻訳者の皆様へ】告知チラシの募集
+### 【著者・翻訳者などの皆様へ】告知チラシの募集
 
-RubyKaigi 2025 の本屋の後ろに、著者・翻訳者の方が本を宣伝するチラシを掲示するパネルを設置することになりましたので、よかったらご活用ください。
+RubyKaigi 2025 の本屋の後ろに、著者・翻訳者などの皆様が本や執筆を支援する活動に関する宣伝するチラシを掲示するパネルを設置することになりましたので、よかったらご活用ください。
 
-* 著者・翻訳者の方が対象です。
+* 著者・翻訳者などの方が対象です。
 * A4 以内の紙を掲示します。会期中に本屋にお持ちください。
 * 掲示の場所・順番は我々のほうで決定させていただきます。
 * 掲示したものは終了時に基本的には廃棄します。まずければ終了前に回収してください。
