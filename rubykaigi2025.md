@@ -1,5 +1,14 @@
 # @.bookstore at RubyKaigi 2025
 
+## Information
+
+- At the 2nd floor at the RubyKaigi 2025 venue / RubyKaigi 2025 会場の 2F
+- Cashless payments only / キャッシュレス決済のみ
+- [Event schedule](https://docs.google.com/document/d/1tk03UKMPFwBmiQHxl-AoWjDKDUCET9-YPykl85yCbfI/edit?tab=t.0) / [イベントスケジュール（サイン会など）](https://docs.google.com/document/d/1tk03UKMPFwBmiQHxl-AoWjDKDUCET9-YPykl85yCbfI/edit?tab=t.0)
+- [List of books (in Japanese)](https://docs.google.com/spreadsheets/d/1pUsDYE3Y3TWeY3VPmASOYZS1w-W0vcjOx9Bfebh3Xcg/edit?usp=sharing) / [書籍目録](https://docs.google.com/spreadsheets/d/1pUsDYE3Y3TWeY3VPmASOYZS1w-W0vcjOx9Bfebh3Xcg/edit?usp=sharing)
+
+----
+
 - Table of Content
 {:toc}
 
