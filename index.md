@@ -24,7 +24,7 @@ mailto: bs at atdot.net
 ## Past activities
 
 - 2025/04/16-18 RubyKaigi 2025
-  - [@.bookstore at RubyKaigi 2025 | @. bookstore](./rubykaigi2025.html)
+  - [@.bookstore at RubyKaigi 2025](./rubykaigi2025.html)
   - [本屋さんを開催する技術（RubyKaigi 2025）](https://zenn.dev/ko1/articles/4341ab3fd924b1)
 - 2024/10/25-26 Kaigi on Rails 2024
   - [本屋さんを開催する技術](https://zenn.dev/ko1/articles/bf47077f40d793)
