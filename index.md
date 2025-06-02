@@ -24,10 +24,7 @@ mailto: bs at atdot.net
 ## Next activities
 
 - 2025/06/28 [関西Ruby会議08](https://regional.rubykaigi.org/kansai08/)
-  - [募集中](https://docs.google.com/spreadsheets/d/1YPofDg5qqnfPDHI229gR36Svs6bpbPUY7XZ7Yi-rvaE/edit?usp=sharing)
-    - おすすめの本（上記スプレッドシートまで）
-    - 同人誌委託（上記スプレッドシートまで）
-    - スタッフ（報酬は期待しないでください / 若干名 / 希望される方は <bs at atdot.net> までご連絡ください）
+  - [@.bookstore at 関西Ruby会議08](./kanrk08.html)
 - 2025/07/11~12 [SRE NEXT 2025 IN TOKYO](https://sre-next.dev/2025/)
 
 ## Past activities
