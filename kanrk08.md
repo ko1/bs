@@ -1,5 +1,6 @@
 # @.bookstore at [関西Ruby会議08](https://regional.rubykaigi.org/kansai08/)
 
+[関西Ruby会議08](https://regional.rubykaigi.org/kansai08/) でも出店させていただけることになりました。
 今回は会場にいる人の「オススメの本」を並べてみようと思っております。
 その他、下記の通り募集中です。
 もろもろ下記スプレッドシートを直接編集しておよせください。
