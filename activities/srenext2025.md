@@ -1,4 +1,4 @@
-# @.bookstore at [SRE NEXT 2025](https://sre-next.dev/2025/)
+# @.bookstore at [SRE NEXT 2025 IN TOKYO](https://sre-next.dev/2025/)
 
 [SRE NEXT 2025](https://sre-next.dev/2025/) でも出店させていただけることになりました。
 会場にならべたい「オススメの本」を募集しています。

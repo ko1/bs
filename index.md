@@ -26,6 +26,7 @@ mailto: bs at atdot.net
 - 2025/06/28 [関西Ruby会議08](https://regional.rubykaigi.org/kansai08/)
   - [@.bookstore at 関西Ruby会議08](./activities/kanrk08.html)
 - 2025/07/11~12 [SRE NEXT 2025 IN TOKYO](https://sre-next.dev/2025/)
+  - [@.bookstore at SRE NEXT 2025 IN TOKYO](./activities/srenext2025.html)
 
 ## Past activities
 
