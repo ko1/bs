@@ -1,6 +1,6 @@
 # @.bookstore at [SRE NEXT 2025 IN TOKYO](https://sre-next.dev/2025/)
 
-[SRE NEXT 2025](https://sre-next.dev/2025/) でも出店させていただけることになりました。
+[SRE NEXT 2025 IN TOKYO](https://sre-next.dev/2025/) でも出店させていただけることになりました。
 会場にならべたい「オススメの本」を募集しています。
 その他、下記の通り募集中です。
 もろもろ下記スプレッドシートを直接編集しておよせください。
