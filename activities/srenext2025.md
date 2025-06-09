@@ -7,5 +7,5 @@
 
 - [募集中（スプレッドシート）](https://docs.google.com/spreadsheets/d/15XItSHzQkHuc4olo6QIcc11klme86dKI2Y4wuVjARXw/edit?usp=sharing)
   - おすすめの本（上記スプレッドシートまで）
-  - （計画中）同人誌委託（上記スプレッドシートまで）
-  - （計画中）スタッフ（報酬は期待しないでください / 若干名 / 希望される方は bs at atdot.net までご連絡ください）
+  - 同人誌委託（上記スプレッドシートまで）
+  - スタッフ（報酬は期待しないでください / 若干名 / 希望される方は bs at atdot.net までご連絡ください）
