@@ -27,16 +27,17 @@ mailto: bs at atdot.net
   - [@.bookstore at 関西Ruby会議08](./activities/kanrk08.html)
 - 2025/07/11~12 [SRE NEXT 2025 IN TOKYO](https://sre-next.dev/2025/)
   - [@.bookstore at SRE NEXT 2025 IN TOKYO](./activities/srenext2025.html)
+- 2025/09/26~27 [Kaigi on Rails 2025](https://kaigionrails.org/2025/)
 
 ## Past activities
 
 - 2025/04/16-18 RubyKaigi 2025
   - [@.bookstore at RubyKaigi 2025](./activities/rubykaigi2025.html)
   - [本屋さんを開催する技術（RubyKaigi 2025）](https://zenn.dev/ko1/articles/4341ab3fd924b1)
-- 2024/10/25-26 Kaigi on Rails 2024
-  - [本屋さんを開催する技術](https://zenn.dev/ko1/articles/bf47077f40d793)
 - 2025/01/18 Tokyo RubyKaigi 12
   - [本屋さんを開催する技術（その２）](https://zenn.dev/ko1/articles/abd2346d4ce004)
+- 2024/10/25-26 Kaigi on Rails 2024
+  - [本屋さんを開催する技術](https://zenn.dev/ko1/articles/bf47077f40d793)
 
 ## Misc
 
