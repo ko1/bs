@@ -31,6 +31,7 @@ mailto: bs at atdot.net
 
 - 2025/06/28 [関西Ruby会議08](https://regional.rubykaigi.org/kansai08/)
   - [@.bookstore at 関西Ruby会議08](./activities/kanrk08.html)
+  - [本屋さんを開催する技術（関西Ruby会議08）](https://zenn.dev/ko1/articles/c9d4eb8f0b1390) 
 - 2025/04/16-18 RubyKaigi 2025
   - [@.bookstore at RubyKaigi 2025](./activities/rubykaigi2025.html)
   - [本屋さんを開催する技術（RubyKaigi 2025）](https://zenn.dev/ko1/articles/4341ab3fd924b1)
