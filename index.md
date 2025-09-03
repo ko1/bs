@@ -23,11 +23,12 @@ mailto: bs at atdot.net
 
 ## Next activities
 
-- 2025/08/31 [RubyKaigi 2025 follow up](https://rhc.connpass.com/event/356128/) 
 - 2025/09/26~27 [Kaigi on Rails 2025](https://kaigionrails.org/2025/)
 
 ## Past activities
 
+- 2025/08/31 [RubyKaigi 2025 follow up](https://rhc.connpass.com/event/356128/)
+  - まとめ記事：[本屋さんを開催する技術（RubyKaigi 2025 follow up）](https://zenn.dev/ko1/articles/1e73f9d191f609) 
 - 2025/07/11~12 [SRE NEXT 2025 IN TOKYO](https://sre-next.dev/2025/)
   - [@.bookstore at SRE NEXT 2025 IN TOKYO](./activities/srenext2025.html)
   - まとめ記事：[本屋さんを開催する技術（SRE NEXT 2025 IN TOKYO）](https://zenn.dev/ko1/articles/7672f77240c979)
