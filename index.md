@@ -24,7 +24,7 @@ mailto: bs at atdot.net
 ## Next activities
 
 - 2025/09/26~27 [Kaigi on Rails 2025](https://kaigionrails.org/2025/)
-
+  - 選書シート（募集中）: https://docs.google.com/spreadsheets/d/1fxahnJfXbn8a1QHNPJOx-GXBb0p-Mhbx9AXdIQxGkRo/edit?usp=sharing
 ## Past activities
 
 - 2025/08/31 [RubyKaigi 2025 follow up](https://rhc.connpass.com/event/356128/)
