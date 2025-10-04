@@ -23,11 +23,13 @@ mailto: bs at atdot.net
 
 ## Next activities
 
-- 2025/09/26~27 [Kaigi on Rails 2025](https://kaigionrails.org/2025/)
-  - [選書シート（募集中）](https://docs.google.com/spreadsheets/d/1fxahnJfXbn8a1QHNPJOx-GXBb0p-Mhbx9AXdIQxGkRo/edit?usp=sharing)
+- Not planned yet...
 
 ## Past activities
 
+- 2025/09/26~27 [Kaigi on Rails 2025](https://kaigionrails.org/2025/)
+  - [選書シート](https://docs.google.com/spreadsheets/d/1fxahnJfXbn8a1QHNPJOx-GXBb0p-Mhbx9AXdIQxGkRo/edit?usp=sharing)
+  - まとめ記事：[本屋さんを開催する技術（Kaigi on Rails 2025）](https://zenn.dev/ko1/articles/69d8db0227b40a)
 - 2025/08/31 [RubyKaigi 2025 follow up](https://rhc.connpass.com/event/356128/)
   - まとめ記事：[本屋さんを開催する技術（RubyKaigi 2025 follow up）](https://zenn.dev/ko1/articles/1e73f9d191f609) 
 - 2025/07/11~12 [SRE NEXT 2025 IN TOKYO](https://sre-next.dev/2025/)
