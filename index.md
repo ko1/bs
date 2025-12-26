@@ -27,6 +27,8 @@ mailto: bs at atdot.net
 
 ## Past activities
 
+- 2025/12/20 [Rubyリリース30周年パーティー](https://rubyassociation.doorkeeper.jp/events/190436)
+  - まとめ記事：[本屋さんを開催する技術（Rubyリリース30周年パーティー）と2025年のまとめ](https://zenn.dev/ko1/articles/dbcf2ba1d1bedf) 
 - 2025/09/26~27 [Kaigi on Rails 2025](https://kaigionrails.org/2025/)
   - [選書シート](https://docs.google.com/spreadsheets/d/1fxahnJfXbn8a1QHNPJOx-GXBb0p-Mhbx9AXdIQxGkRo/edit?usp=sharing)
   - まとめ記事：[本屋さんを開催する技術（Kaigi on Rails 2025）](https://zenn.dev/ko1/articles/69d8db0227b40a)
