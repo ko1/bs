@@ -23,7 +23,8 @@ mailto: bs at atdot.net
 
 ## Next activities
 
-- Not planned yet...
+- 2026/04/22-24 [RubyKaigi 2026](https://rubykaigi.org/2026/)
+- 2026/02/21 [出雲Ruby会議01](https://regional.rubykaigi.org/izumo01/)
 
 ## Past activities
 
