@@ -25,10 +25,11 @@ mailto: bs at atdot.net
 
 - 2026/04/22-24 [RubyKaigi 2026](https://rubykaigi.org/2026/)
 - 2026/03/20-22 [PHPerKaigi 2026](https://phperkaigi.jp/2026/)_
-- 2026/02/21 [出雲Ruby会議01](https://regional.rubykaigi.org/izumo01/)
 
 ## Past activities
 
+- 2026/02/21 [出雲Ruby会議01](https://regional.rubykaigi.org/izumo01/)
+  - まとめ記事：[本屋さんを開催する技術（出雲Ruby会議01）](https://zenn.dev/ko1/articles/8a5bf1958b8674) 
 - 2025/12/20 [Rubyリリース30周年パーティー](https://rubyassociation.doorkeeper.jp/events/190436)
   - まとめ記事：[本屋さんを開催する技術（Rubyリリース30周年パーティー）と2025年のまとめ](https://zenn.dev/ko1/articles/dbcf2ba1d1bedf) 
 - 2025/09/26~27 [Kaigi on Rails 2025](https://kaigionrails.org/2025/)
