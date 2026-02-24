@@ -24,7 +24,7 @@ mailto: bs at atdot.net
 ## Next activities
 
 - 2026/04/22-24 [RubyKaigi 2026](https://rubykaigi.org/2026/)
-- 2026/03/20-22 [PHPerKaigi 2026](https://phperkaigi.jp/2026/)_
+- 2026/03/20-22 [PHPerKaigi 2026](https://phperkaigi.jp/2026/)
 
 ## Past activities
 
