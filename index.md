@@ -23,11 +23,12 @@ mailto: bs at atdot.net
 
 ## Next activities
 
-- 2026/04/22-24 [RubyKaigi 2026](https://rubykaigi.org/2026/)
-  - [RubyKaigi 2026 の本屋](activities/rubykaigi2026.md)
+- 2026/05/14-15 [クラウドネイティブ会議](https://kaigi.cloudnativedays.jp/) 
 
 ## Past activities
 
+- 2026/04/22-24 [RubyKaigi 2026](https://rubykaigi.org/2026/)
+  - [RubyKaigi 2026 の本屋](activities/rubykaigi2026.md)
 - 2026/03/20-22 [PHPerKaigi 2026](https://phperkaigi.jp/2026/)
 - 2026/02/21 [出雲Ruby会議01](https://regional.rubykaigi.org/izumo01/)
   - まとめ記事：[本屋さんを開催する技術（出雲Ruby会議01）](https://zenn.dev/ko1/articles/8a5bf1958b8674) 
