@@ -1,6 +1,6 @@
 イベントにご参加された方、アンケートにお答えください。
 感謝します。
 
-* [RubyKaigi 2026](https://forms.gle/zPcaUQjxqKbL268p6)
+* [クラウドネイティブ会議](https://forms.gle/7bceVA3x8WTfYLxF9)
 
 このページをご覧になった方は、「このページを見たよ」と笹田にお伝えください。気分で本を割引します。
