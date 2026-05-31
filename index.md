@@ -23,10 +23,11 @@ mailto: bs at atdot.net
 
 ## Next activities
 
-- 2026/05/14-15 [クラウドネイティブ会議](https://kaigi.cloudnativedays.jp/) 
+- 2026/07/10-11 [SRE NEXT 2026 IN TOKYO](https://sre-next.dev/2026/)
 
 ## Past activities
 
+- 2026/05/14-15 [クラウドネイティブ会議](https://kaigi.cloudnativedays.jp/) 
 - 2026/04/22-24 [RubyKaigi 2026](https://rubykaigi.org/2026/)
   - [RubyKaigi 2026 の本屋](activities/rubykaigi2026.md)
 - 2026/03/20-22 [PHPerKaigi 2026](https://phperkaigi.jp/2026/)
