@@ -27,7 +27,8 @@ mailto: bs at atdot.net
 
 ## Past activities
 
-- 2026/05/14-15 [クラウドネイティブ会議](https://kaigi.cloudnativedays.jp/) 
+- 2026/05/14-15 [クラウドネイティブ会議](https://kaigi.cloudnativedays.jp/)
+  - まとめ記事：[本屋さんを開催する技術（クラウドネイティブ会議）](https://zenn.dev/ko1/articles/313bf7661a68b7) 
 - 2026/04/22-24 [RubyKaigi 2026](https://rubykaigi.org/2026/)
   - [RubyKaigi 2026 の本屋](activities/rubykaigi2026.md)
   - まとめ記事：[本屋さんを開催する技術（RubyKaigi 2026）](https://zenn.dev/ko1/articles/e184df62e0744b) 
