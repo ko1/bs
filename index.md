@@ -23,10 +23,11 @@ mailto: bs at atdot.net
 
 ## Next activities
 
-- 2026/09/05 [RubyKaigi 2026 follow up](https://rhc.connpass.com/event/392503/) 
+- 2026/10/16-17 [Kaigi on Rails 2026](https://kaigionrails.org/2026/) 
 
 ## Past activities
 
+- 2026/09/05 [RubyKaigi 2026 follow up](https://rhc.connpass.com/event/392503/) 
 - 2026/07/10-11 [SRE NEXT 2026 IN TOKYO](https://sre-next.dev/2026/)
 - 2026/05/14-15 [クラウドネイティブ会議](https://kaigi.cloudnativedays.jp/)
   - まとめ記事：[本屋さんを開催する技術（クラウドネイティブ会議）](https://zenn.dev/ko1/articles/313bf7661a68b7) 
