@@ -1,6 +1,6 @@
 イベントにご参加された方、アンケートにお答えください。
 感謝します。
 
-* [Kaigi on Rails 2026](https://forms.gle/zE4YAbtHNCR6TB8m9)
+* [大江戸Ruby会議11](https://forms.gle/U2pX4SgZ9EyXov5z5)
 
 このページをご覧になった方は、「このページを見たよ」と笹田にお伝えください。気分で本を割引します。
